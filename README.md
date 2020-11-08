@@ -1,3 +1,4 @@
 # Project Information
 # Project source 
-Information about the project  [Google Job skills](https://www.kaggle.com/niyamatalmass/google-job-skills)
+* Column names, tasks and variables can be found at  [Google Job skills](https://www.kaggle.com/niyamatalmass/google-job-skills)
+* Data provider [Kaggle](https://www.kaggle.com/)
