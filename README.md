@@ -11,6 +11,6 @@ what programming languages to learn the following project will be developed.
 * Ths project will be developed with **R programming language**
 
 # Libraries 
-1. readexcel
-2. tidyverse
-3. 
+1. library(readexcel)
+2. library(tidyverse)
+3. library(xlsx)
