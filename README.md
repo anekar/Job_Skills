@@ -14,3 +14,8 @@ what programming languages to learn the following project will be developed.
 1. library(readexcel)
 2. library(tidyverse)
 3. library(xlsx)
+
+# Setup 
+1. Setting working directory with command setwd()
+2. Importing the necessary libraries 
+3. Importing the dataframe
