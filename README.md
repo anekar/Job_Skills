@@ -24,3 +24,9 @@ what programming languages to learn the following project will be developed.
 The dataframe have been collected by Kaggle platform 
 
 # Data Cleaning process
+Major duties of data Cleaning process:<br>
+
+1.Detecing NA values and removing them <br>
+2.Deleting outliers <br>
+3.Changing formats <br>
+4.Tidying data
