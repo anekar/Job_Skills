@@ -30,3 +30,7 @@ Major duties of data Cleaning process:<br>
 2.Deleting outliers <br>
 3.Changing formats <br>
 4.Tidying data
+
+# Exploratory Data Analysis
+In this phase of the project the goal is to explore the dataframe in order to expprt insights
+and decision making results.
