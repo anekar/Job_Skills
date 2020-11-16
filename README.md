@@ -32,5 +32,5 @@ Major duties of data Cleaning process:<br>
 4.Tidying data
 
 # Exploratory Data Analysis
-In this phase of the project the goal is to explore the dataframe in order to expprt insights
-and decision making results.
+In this phase of the project the goal is to explore the dataframe in order to discover insights
+and decision making results. To discover these insights boxplots, histograms, barplots etc.
