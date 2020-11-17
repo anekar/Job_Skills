@@ -1,10 +1,10 @@
 # Project Information
 ``` 
-In order to analyze what it takes to take a job at google, what skilks to acquire, 
-what programming languages to learn the following project will be developed.
+In order to analyze what it takes to take a job at Google, what skilks to acquire, 
+what programming languages to learn the answers to all these questions will be included in this project.
 ```
 # Project source 
-* Column names, tasks and variables can be found at  [Google Job skills](https://www.kaggle.com/niyamatalmass/google-job-skills)
+* Details about the project such as variables, formats, outliers, NA values and more can be found here [Google Job skills](https://www.kaggle.com/niyamatalmass/google-job-skills)
 
 
 # Language
