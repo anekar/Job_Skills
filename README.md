@@ -21,7 +21,7 @@ what programming languages to learn the answers to all these questions will be i
 3. Importing the dataframe
 
 # Data Collecting process 
-The dataframe have been collected by Kaggle platform 
+The dataframe has been collected by Kaggle platform.
 
 # Data Cleaning process
 Major duties of data Cleaning process:<br>
