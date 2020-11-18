@@ -1,7 +1,6 @@
 # Project Information
 ``` 
-In order to analyze what it takes to take a job at Google, what skilks to acquire, 
-what programming languages to learn the answers to all these questions will be included in this project.
+In order to analyze what it takes to take a job at Google, what skilks to acquire, what programming languages to learn the answers to all these questions will be included in this project.
 ```
 # Project source 
 * Details about the project such as variables, formats, outliers, NA values and more can be found here [Google Job skills](https://www.kaggle.com/niyamatalmass/google-job-skills)
@@ -24,7 +23,7 @@ what programming languages to learn the answers to all these questions will be i
 The dataframe has been collected by Kaggle platform.
 
 # Data Cleaning process
-Major duties of data Cleaning process:<br>
+In this phase of the project specific duties must be done such as:
 
 1.Detecing NA values and removing them <br>
 2.Deleting outliers <br>
@@ -33,4 +32,5 @@ Major duties of data Cleaning process:<br>
 
 # Exploratory Data Analysis
 In this phase of the project the goal is to explore the dataframe in order to discover insights
-and decision making results. To discover these insights boxplots, histograms, barplots etc.
+and decision making results. To discover these insights boxplots, histograms and  barplots
+will be used. etc.
