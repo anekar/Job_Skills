@@ -34,3 +34,5 @@ In this phase of the project specific duties must be done such as:
 In this phase of the project the goal is to explore the dataframe in order to discover insights
 and decision making results. To discover these insights boxplots, histograms and  barplots
 will be used. etc.
+
+# Data Visualizations
