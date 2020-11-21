@@ -38,3 +38,5 @@ will be used. etc.
 # Data Visualizations
 
 ### Tools
+In order to create visualizations i will use 
+* Tableau public
