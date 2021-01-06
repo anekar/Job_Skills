@@ -1,0 +1,23 @@
+---
+title: "Job_Skills"
+author: "anestis.karonidis@gmail.com"
+date: "6/1/2021"
+output: html_document
+---
+
+```{r, uploading libraries}
+setwd('')
+library(tidyverse)
+df
+```
+
+```{r, splitting the categories}
+Technical <- df %>% select(Category, Title, Location) %>% 
+  filter(Category == 'Technical Solutions')
+
+ Program_Manage <- df %>% select(Category, Location, Title) %>% 
+   filter(Category == 'Program Management')
+ 
+ Hard_eng <- df %>% select(Category, Location, Title) %>% 
+   filter(Category == 'Hardware Engineering')
+```
