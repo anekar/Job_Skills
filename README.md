@@ -31,6 +31,7 @@ In this phase of the project specific duties must be done such as:
 1.Detecing NA values and removing them <br>
 2.Deleting outliers <br>
 3.Changing formats <br>
+Deleting columns <br>
 4.Tidying data
 
 # Exploratory Data Analysis
