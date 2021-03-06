@@ -21,6 +21,7 @@ the answers to all these questions will be included in this project.
 1. Setting working directory with command setwd()
 2. Importing the necessary libraries 
 3. Importing the dataframe
+4. Starting analyzing
 
 # Data Collecting process 
 The dataframe has been collected by Kaggle platform.
