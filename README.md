@@ -45,3 +45,4 @@ will be used. etc.
 ### Tools
 In order to create visualizations i will use 
 * Tableau public
+* Microsoft Excel
