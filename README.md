@@ -24,7 +24,7 @@ the answers to all these questions will be included in this project.
 4. Starting analyzing
 
 # Data Collecting process 
-The dataframe has been collected by Kaggle platform, in order to 
+The dataframe has been collected by Kaggle platform, in order to  collect the data that will be analyzed
 
 # Data Cleaning process
 In this phase of the project specific duties must be done such as:
