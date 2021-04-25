@@ -29,11 +29,13 @@ The dataframe has been collected by Kaggle platform, in order to  collect the da
 # Data Cleaning process
 In this phase of the project specific duties must be done such as:
 
+
 1.Detecing NA values and removing them <br>
 2.Deleting outliers <br>
 3.Changing formats <br>
 Deleting columns <br>
 4.Tidying data
+Making Visuals
 
 # Exploratory Data Analysis
 In this phase of the project the goal is to explore the dataframe in order to discover insights
