@@ -29,6 +29,7 @@ The dataframe has been collected by Kaggle platform, in order to  collect the da
 # Data Cleaning process
 In this phase of the project specific duties must be done such as:
 
+Changing formats of the dates 
 
 1.Detecing NA values and removing them <br>
 2.Deleting outliers <br>
