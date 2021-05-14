@@ -6,6 +6,7 @@ what skills to acquire, what programming languages to learn <br>
 the answers to all these questions will be included in this project.
 ```
 # Project source 
+Kaggle platform
 * Details about the project such as variables, formats, outliers, NA values and more can be found here [Google Job skills](https://www.kaggle.com/niyamatalmass/google-job-skills)
 
 
