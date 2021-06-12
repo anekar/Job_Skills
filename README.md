@@ -45,7 +45,8 @@ and decision making results. To discover these insights boxplots, histograms and
 will be used. etc.
 
 # Data Visualizations
- STEP ONE 
+ In this phase of the project we need to visualize our data 
+ 
 ### Tools
 In order to create visualizations i will use 
 * Tableau public
