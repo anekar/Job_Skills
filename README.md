@@ -11,7 +11,7 @@ Kaggle platform
 
 
 # Language
-* Ths project will be developed with **R programming language**
+* Ths project will be developed with R
 
 # Libraries 
 1. library(readexcel)
