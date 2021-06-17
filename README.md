@@ -22,7 +22,7 @@ Kaggle platform
 1. Setting working directory with command setwd()
 2. Importing the necessary libraries 
 3. Importing the dataframe
-4. Starting analyzing
+4. Start analyzing
 
 # Data Collecting process 
 The dataframe has been collected by Kaggle platform, in order to  collect the data that will be analyzed
