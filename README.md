@@ -1,6 +1,6 @@
 # Project Information
 
-In order to analyze what it takes <br> 
+In order to analyze what it takes 
 to take a job at Google, <br> 
 what skills to acquire, what programming languages to learn <br>
 the answers to all these questions will be included in this project.
