@@ -23,6 +23,7 @@ Data have been collected from Kaggle platform
 2. Importing the necessary libraries 
 3. Importing the dataframe
 4. Start analyzing
+5. Exploring insights
 
 # Data Collecting process 
 The dataframe has been collected by Kaggle platform, in order to  collect the data that will be analyzed
